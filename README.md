@@ -1,7 +1,6 @@
 <div align ="center">
 <p float="left">
   <img src="doc/liggghts_logo.jpg" width="300" />
-  <img src="doc/aspherix_logo.png" width="300" /> 
 </p>
 
 </div>

@@ -6,16 +6,7 @@
 
 </div>
 
-## Aspherix® is the successor of LIGGGHTS®
 
-Aspherix® is available under commercial license and combines DCS’s learnings from the development of LIGGGHTS® and a large set of new, cutting edge features. For more information, please visit https://www.aspherix-dem.com/.
-
-Cronology of the development:
-* LAMMPS: core development by Sandia Corporation since 2003
-* LIGGGHTS® core development by DCS Computing GmbH and JKU Linz since 2009
-* Aspherix®: core development by DCS Computing GmbH since 2019
-
-</div>
 
 ## LIGGGHTS®-PUBLIC
 
